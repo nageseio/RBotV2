@@ -8,7 +8,7 @@
   <h1>RBOT v1.1.8e</h1>
    <p>Programa para deixar dando Reset e Master reset sozinho 
 
-Com este boot vc pode deixar dando RR e MR sozinho enquanto vc dorme ou vai pra uma balada ou enquanto vc estiver trabalhando ou Estudando 
+Com este bot voce pode deixar dando RR e MR sozinho enquanto vc dorme ou vai pra uma balada ou enquanto voce estiver trabalhando ou Estudando 
 
 Duvidas Falar com o Nageseio: <a href="https://chat.whatsapp.com/L7FMbo0viV925hNglUvkh7">WhatsApp</a></p>
 	<h2> Download </h2>
